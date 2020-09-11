@@ -1,3 +1,3 @@
 # ML_SHAD
 
-Repo for the ML(Part 1 and Part 2) course in School of Data Analysis.
+Repo for the ML(Part 1) course in the School of Data Analysis.
